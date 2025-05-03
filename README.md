@@ -12,7 +12,6 @@ A comprehensive collection of SwiftUI splash screens showcasing progressive anim
     Level 1: Basic Animated Splash Screen
     Level 2: Advanced Liquid Mutation
     Level 3: Mind-Bending Metaball Physics
-    \
     Installation
     Usage
     Learning Objectives
