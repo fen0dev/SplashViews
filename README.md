@@ -7,8 +7,6 @@ A comprehensive collection of SwiftUI splash screens showcasing progressive anim
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 📑 Table of Contents
-
-- Overview
     Level 1: Basic Animated Splash Screen
     Level 2: Advanced Liquid Mutation
     Level 3: Mind-Bending Metaball Physics
